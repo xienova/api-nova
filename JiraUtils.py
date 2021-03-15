@@ -3,7 +3,7 @@ import traceback  # 上传附件使用
 
 from jira import JIRA  # JIRA工具使用
 
-import CommonUtils
+from utils import CommonUtils
 import MysqlUtils
 import ReUtils
 
